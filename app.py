@@ -5,7 +5,7 @@ import os
 import datetime as dt
 import io
 import plotly.express as px
-from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode
+
 
 # --- Sección para actualizar la hoja principal ---
 st.header("Actualizar Hoja Principal")
